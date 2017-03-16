@@ -1,0 +1,1 @@
+# hwmon_device_register.patch
